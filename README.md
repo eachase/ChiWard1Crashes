@@ -2,7 +2,7 @@
 Pedestrian and cyclist crash data for Chicago's 1st Ward
 
 ## Map of Crashes
-The map on this page shows pedestrian and cyclist crashes from January 1, 2023 to November 16, 2024: https://eachase.github.io/ChiWard1Crashes/ward_crashes.html
+The map on this page shows pedestrian and cyclist crashes from January 1, 2020 to November 29, 2024: https://eachase.github.io/ChiWard1Crashes/ward_crashes.html
 
 ## Data used in this analysis
 - Traffic Crashes: https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data
